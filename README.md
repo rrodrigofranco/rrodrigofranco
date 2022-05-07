@@ -1,4 +1,4 @@
-## Olá, eu sou Rodrigo Franco
+## Hello, I'm Rodrigo
 - 🔭 Currently working with PHP
 - 🌱 Learning Laravel
 
