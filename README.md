@@ -27,5 +27,4 @@
   <a href = "mailto:francorodrigognr@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-ribeiro-franco-862884127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rrodrigofranco/rrodrigofranco/blob/output/github-contribution-grid-snake.svg)
 </div>
